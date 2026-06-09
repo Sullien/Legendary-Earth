@@ -25,7 +25,7 @@ Relative to the map scale, Siberia is currently way bigger than the rest of the 
 
 Unciv isn't very well suited for Earth maps, a lot of CIty-States are quite close (Brussels and Antwerp would be 1 tile apart in the map, as would Kuala Lumpur and Singapore, etc) There are also many nations missing such as Australia, Argentina or Kazakhstan which means the map will be a bit empty without their historical nations. I could make mod Nations and City States to fill it out but that would make this more a scenario than an Earth map.
 
-4: Africa my pretty
+4: Africa pretty 
 Currently Africa has way more features and resources than it realistically should, Particularly on the Sahara and North Africa, This is  because a Normal Africa would be quite empty and boring to see. However in the name of realism Africa shall be stripped bare, it's resources and riches taken away so it looks (sadly) more historical 
 
 5: Resource Compendium
