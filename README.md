@@ -1,6 +1,8 @@
 # Unciv-Legendary-Earth
 The ultimate Earth Map made for Unciv; Featuring True Start Locations, historical resources and World Wrap. (V.01 = Pre-release Version)
 
+![alt text](https://github.com/Sullien/Legendary-Earth/blob/main/preview.jpg)
+
 Inspired by: Google Maps
 NASA Earth Map by Terrain
 Earth Map Topographic
