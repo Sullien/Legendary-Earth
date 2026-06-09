@@ -26,12 +26,15 @@ Relative to the map scale, Siberia is currently way bigger than the rest of the 
 Unciv isn't very well suited for Earth maps, a lot of CIty-States are quite close (Brussels and Antwerp would be 1 tile apart in the map, as would Kuala Lumpur and Singapore, etc) There are also many nations missing such as Australia, Argentina or Kazakhstan which means the map will be a bit empty without their historical nations. I could make mod Nations and City States to fill it out but that would make this more a scenario than an Earth map.
 
 4: Africa pretty 
+
 Currently Africa has way more features and resources than it realistically should, Particularly on the Sahara and North Africa, This is  because a Normal Africa would be quite empty and boring to see. However in the name of realism Africa shall be stripped bare, it's resources and riches taken away so it looks (sadly) more historical 
 
 5: Resource Compendium
+
 What constitues a resource? Many of the fishing hotspots in the past have long since dried up and are no longer used, should they get a Fish resource? Similarly, many Coal, Iron and Gold mines were depleted and no longer have the resource, should they get a resource? Resources don't decay in Unciv While historical, resource placement aligns more with modern data(Oil in Middle East was discovered decades after WW2) and current deposits since they have the most info. I could add more resource deposits from the past but I need a source of information to do it.
 
 6:Resource Mismatch
+
 A few resources have steep placing conditions(For example, Uranium can only be in forest/Jungle Marsh or tundra), therefore I cannot place them in their historical locations (Niger Uranium should be higher up, a few mines on Egypt cannot be placed etc.) I could change or remove these restrictions but for now this is only a map mod not a ruleset change.
 
 Currently Detained City State/Nations
