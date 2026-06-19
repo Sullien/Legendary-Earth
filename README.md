@@ -11,6 +11,18 @@ Hoi4 Earth Map
 Info for Resource Placement:
 https://mrdata.usgs.gov/mrds/
 
+Changes on V0.2
+
+Turkish Strait is now land based / Egypt now starts at the Suez
+Longer floodplains in North Africa
+Made starting locations better so City-States Settle in place(Jerusalem / Yerevan), Added more to caucasus / Eastern Turkey
+TODO: Make a non-TSL Variant
+Nerfed China and Persia
+Nerfed Egypt / Siam and India
+Lower Quantity of Strategic Resources
+Added Luxuries in Central USA 
+Nerfed Aztec Start
+
 Current Roadmap
 
 1:North Moluca no Existo
